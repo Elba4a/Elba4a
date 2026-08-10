@@ -11,7 +11,7 @@ actually behind them.
 
 **[Hekta](https://github.com/Elba4a/Hekta)** — a personal financial operating system for
 the Arab world. Daily money tracking, net worth with karat-aware gold, and shared
-expenses, all under one input layer: type it, say it, or scan the receipt.
+expenses, all fused under one AI input layer: type it, say it, or scan the receipt.
 762 commits · 33 Postgres tables with RLS on every one · 14 Edge Functions ·
 1,345 client + 361 edge tests. *Pre-submission, v1.0.0.*
 `Expo · React Native · TypeScript · Supabase · Claude API`
@@ -26,7 +26,7 @@ dark surface and 2.4:1 on white. **[noor-eg.net](https://noor-eg.net)**
 design system, and a WhatsApp bot that answers in Egyptian Arabic and closes the order
 in Shopify. One external dependency; everything else is the Node standard library.
 **[muhrah.shop](https://muhrah.shop)**
-`Shopify · node:sqlite · WhatsApp Cloud API`
+`Shopify · Claude tool use · node:sqlite · WhatsApp Cloud API`
 
 **Horus Transfer** — fixed-price airport transfers in Egypt, in 14 languages, confirmed
 over WhatsApp. Search only ever offers destinations the operator has actually priced.
