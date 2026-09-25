@@ -12,8 +12,8 @@ actually behind them.
 **[Hekta](https://github.com/Elba4a/Hekta)** — a personal financial operating system for
 the Arab world. Daily money tracking, net worth with karat-aware gold, and shared
 expenses, all fused under one AI input layer: type it, say it, or scan the receipt.
-762 commits · 33 Postgres tables with RLS on every one · 14 Edge Functions ·
-1,345 client + 361 edge tests. *[On the App Store](https://apps.apple.com/app/id6778138657).*
+1,300+ commits · 43 Postgres tables with RLS on every one · 15 Edge Functions ·
+7,000+ client and edge tests. *[On the App Store](https://apps.apple.com/app/id6778138657).*
 `Expo · React Native · TypeScript · Supabase · Claude API`
 
 **[NOOR](https://github.com/Elba4a/noor-eg)** — a bilingual landing page for an Egyptian
@@ -63,7 +63,7 @@ over WhatsApp. Search only ever offers destinations the operator has actually pr
 
 - **Hekta** — نظام مالي شخصي للعالم العربي. مصاريف يومية، وصافي ثروة بذهب واعي بالقيراط،
   ومصاريف مشتركة — كلهم تحت طبقة إدخال واحدة: اكتبها أو قولها أو صوّر الإيصال.
-  ٧٦٢ commit · ٣٣ جدول عليهم RLS · ١٤ Edge Function · ١٧٠٦ اختبار. *قبل التقديم، v1.0.0.*
+  +١٣٠٠ commit · ٤٣ جدول عليهم RLS · ١٥ Edge Function · +٧٠٠٠ اختبار. *[على App Store](https://apps.apple.com/app/id6778138657).*
 - **NOOR** — لاندنج بيدج لشركة تشطيبات مصرية. صفر build وصفر dependency.
   [noor-eg.net](https://noor-eg.net)
 - **مُهرة** — براند بخور مستكة يدوي **بملكه**، في القاهرة. متجر Shopify وبوت واتساب
