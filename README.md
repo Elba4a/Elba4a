@@ -13,7 +13,7 @@ actually behind them.
 the Arab world. Daily money tracking, net worth with karat-aware gold, and shared
 expenses, all fused under one AI input layer: type it, say it, or scan the receipt.
 762 commits · 33 Postgres tables with RLS on every one · 14 Edge Functions ·
-1,345 client + 361 edge tests. *Pre-submission, v1.0.0.*
+1,345 client + 361 edge tests. *[On the App Store](https://apps.apple.com/app/id6778138657).*
 `Expo · React Native · TypeScript · Supabase · Claude API`
 
 **[NOOR](https://github.com/Elba4a/noor-eg)** — a bilingual landing page for an Egyptian
